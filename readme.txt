@@ -8,4 +8,8 @@ Creating a new branch is quick.
 nihao
 
 DMXY
+<<<<<<< HEAD
 
+=======
+shuju 
+>>>>>>> e49c097... xiugai bug
