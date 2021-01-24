@@ -8,8 +8,12 @@ Creating a new branch is quick.
 <<<<<<< HEAD
 nihao
 
+<<<<<<< HEAD
 =======
 
+xiugai
+>>>>>>> e004892... xiugaiwancheng
+=======
 xiugai
 >>>>>>> e004892... xiugaiwancheng
 DMXY
