@@ -5,8 +5,13 @@ git tracks
 boss
 Creating a new branch is quick.
 12345
+<<<<<<< HEAD
 nihao
 
+=======
+
+xiugai
+>>>>>>> e004892... xiugaiwancheng
 DMXY
 <<<<<<< HEAD
 
